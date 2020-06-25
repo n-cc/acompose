@@ -14,6 +14,7 @@ Extreme WIP made for fun
 
 Jesu, Joy of Man's Desiring:
 
+```
 c 500
 d 500
 e 500
@@ -29,9 +30,11 @@ C 500
 g 500
 e 500
 c 500
+```
 
 Ode to Joy:
 
+```
 e 500
 e 500
 f 500
@@ -47,3 +50,4 @@ e 500
 e 700
 d 200
 d 200
+```
